@@ -6,5 +6,3 @@ Esse projeto foi pensado com o intuito de adquirir experiência de programação
 Vale salientar que esse template e a ideia do projeto não são de autoria minha, mas baseado na série "Start na Carreira de Programação: HTML, CSS e JavaScript" da OneBitCode.
 
 É algo bem simples, mas já é um começo na programação.
-
-Link para você testá-la: https://replit.com/@matheusgodzilla/calculadora-de-gorjetas
